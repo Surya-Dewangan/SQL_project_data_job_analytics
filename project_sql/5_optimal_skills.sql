@@ -1,5 +1,5 @@
 /*
-Answer: What are the most optimal skills to learn (aka it's in hif=gh demand nad high-paying skill)?
+Answer: What are the most optimal skills to learn (aka it's in high demand and high-paying skill)?
 - Identify skills in high demand and associated with high average salaries for Data Analyst roles
 - Concentrates on remote positions with specified salaries 
 - Why? Taregetsa skills that offer job security (high demand) and financial benefits (high salaries)
